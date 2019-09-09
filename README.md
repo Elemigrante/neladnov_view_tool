@@ -22,7 +22,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+NeladnovViewTool::Renderer.copyright 'Dmitry Neladnov', 'All rights reserved'
+```
 
 ## Development
 
